@@ -12,6 +12,7 @@ In this repo, you'll explore and implement key ML techniques:
 - **OCR (Optical Character Recognition)**: Turn images into text magic. 📝
 - **Table Extraction**: Extract and manipulate data from tables effortlessly. 📑
 - **Grey Scale to Color Conversion**: Bring monochrome images to life. 🌈
+- **Dimensionality Reduction**: Compress text and image data.
 
 ## 🌟 Highlights
 
